@@ -1,0 +1,1 @@
+# AutowireByResourceType
